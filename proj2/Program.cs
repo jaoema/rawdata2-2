@@ -14,7 +14,7 @@ namespace proj2
 
             Console.WriteLine("yadayadaydaydaydyad");
 
-
+            Console.WriteLine("HEJ");
 
             Console.WriteLine("yaagagSWADHBSDN<dsjmjre");
 
