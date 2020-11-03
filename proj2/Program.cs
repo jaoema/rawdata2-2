@@ -10,6 +10,9 @@ namespace proj2
 
 
             Console.WriteLine("Am i Gitting it now?");
+
+
+            Console.WriteLine("yadayadaydaydaydyad");
         }
     }
 }
