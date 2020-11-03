@@ -13,6 +13,10 @@ namespace proj2
 
 
             Console.WriteLine("yadayadaydaydaydyad");
+
+
+
+            Console.WriteLine("yaagagSWADHBSDN<dsjmjre");
         }
     }
 }
