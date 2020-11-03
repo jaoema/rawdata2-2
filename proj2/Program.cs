@@ -7,6 +7,9 @@ namespace proj2
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+
+            Console.WriteLine("Am i Gitting it now?");
         }
     }
 }
